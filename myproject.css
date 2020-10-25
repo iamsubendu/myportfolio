@@ -1,0 +1,35 @@
+body
+{
+	background-image: url(https://image.shutterstock.com/image-photo/micro-peacock-feather-hd-imagebest-260nw-1127238569.jpg);
+	background-repeat: no-repeat;
+	background-size: 1550px 800px;
+
+}
+.logo
+{
+	color: white;
+	position: absolute;
+	  left: 60px;
+	  top: 15px;
+
+}
+.aboutme
+{
+	color: white;
+
+}
+.myproject
+{
+	color: white;
+
+}
+.phno
+{
+	color: white;
+}
+.copyright
+{
+	 color: white;
+	  position: absolute;
+     bottom: 0px;
+}

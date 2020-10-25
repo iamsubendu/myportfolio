@@ -1,0 +1,66 @@
+body
+{
+	background-image: url("4.jpg");
+	background-repeat: no-repeat;
+	background-size: 1550px 800px;
+
+}
+.logo
+{
+	color: white;
+	position: absolute;
+	  left: 60px;
+	  top: 15px;
+
+}
+.aboutme
+{
+	color: white;
+
+}
+.myproject
+{
+	color: white;
+
+}
+.phno
+{
+	color: white;
+}
+.one
+{
+    text-align: center;
+    color: white;
+}
+h1{
+	
+	padding-top: 350px;
+}
+.icons
+{
+  font-size: 30px;
+  width: 50px;
+  position: absolute;
+}
+.copyright
+{
+	 color: white;
+	  position: absolute;
+     bottom: 0px;
+}
+.vl {
+    border-left: 1px solid  white;
+    height: 600px;
+    position: absolute;
+    left: 20px;
+     top: 100px;
+}
+.v2 {
+  border-right: 1px solid  white;
+  height: 600px;
+  position: absolute;
+  right: 20px;
+    top: 100px;
+
+}
+
